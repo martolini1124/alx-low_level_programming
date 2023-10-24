@@ -3,6 +3,12 @@
 #include <stdio.h>
 #include "lists.h"
 
+/*
+ * This program demonstrates the use of a linked list in C. It creates a
+ * linked list of integers, prints the list, reverses the list, prints it again,
+ * and then frees the memory associated with the list.
+ */
+
 int main(void)
 {
 listint_t *head;
